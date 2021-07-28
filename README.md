@@ -1,2 +1,1 @@
-# api_yatube
-api_yatube
+API for the NerdSpace project (social network)
