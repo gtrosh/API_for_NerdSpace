@@ -1,1 +1,1 @@
-API for the NerdSpace project (social network)
+REST API for the NerdSpace project (social network)
